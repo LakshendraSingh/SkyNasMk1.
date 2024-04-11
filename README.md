@@ -1,2 +1,4 @@
-# SkyNas1.
+# SkyNasMk1.
 Linux Based Nas Server 
+Built on top of debian/ubuntu
+Utilises webmin as dashboard and samba networking protocol with the ability to configure raid
