@@ -58,6 +58,6 @@ chown nobody:nogroup Folder1/
 #setting up samba
 #Backup old Config File:
 sudo cp /etc/samba/smb.conf /etc/samba/smb.conf.old
-#paste new config file webmin>servers>samba windows file sharing > edit config file
+#paste new config file webmin>servers>samba windows file sharing > edit config file and restart Samba Servers after editing config file
 
 
