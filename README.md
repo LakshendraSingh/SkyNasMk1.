@@ -279,8 +279,9 @@ sudo cp /etc/samba/smb.conf /etc/samba/smb.conf.old
 
 - [ ] Finalize the automated installation script.
 
+---
 
-These are the Steps and recommendations for setting up SkyNasMk1 both manually and using the automated script.
+These are the Steps and recommendations for setting up SkyNasMk1 both manually and using the automated script, you may change the settings according to your need.
 
 ---
 
