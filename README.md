@@ -1,4 +1,5 @@
 ## SkyNasMk1.
+SkyNasMk1 is a Linux-based Network Attached Storage (NAS) server built on top of Debian/Ubuntu. It utilizes Webmin as a dashboard for easy management and Samba for networking protocol, with the ability to configure RAID.
 
 ## Disclaimer
 
@@ -9,7 +10,6 @@ SkyNasMk1 is provided "as is", without warranty of any kind, express or implied,
 By using SkyNasMk1, you agree to comply with all applicable laws and regulations regarding the use and distribution of software. You acknowledge that it is your responsibility to ensure that your use of this software complies with the laws and regulations of your jurisdiction.
 
 ---
-SkyNasMk1 is a Linux-based Network Attached Storage (NAS) server built on top of Debian/Ubuntu. It utilizes Webmin as a dashboard for easy management and Samba for networking protocol, with the ability to configure RAID.
 
 ## Features
 
