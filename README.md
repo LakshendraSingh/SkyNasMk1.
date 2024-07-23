@@ -1,5 +1,14 @@
-#### SkyNasMk1.
-## Scroll down to view the disclaimer and Legal Notice
+## SkyNasMk1.
+
+## Disclaimer
+
+SkyNasMk1 is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the creators or contributors be held liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+## Legal Notice
+
+By using SkyNasMk1, you agree to comply with all applicable laws and regulations regarding the use and distribution of software. You acknowledge that it is your responsibility to ensure that your use of this software complies with the laws and regulations of your jurisdiction.
+
+---
 SkyNasMk1 is a Linux-based Network Attached Storage (NAS) server built on top of Debian/Ubuntu. It utilizes Webmin as a dashboard for easy management and Samba for networking protocol, with the ability to configure RAID.
 
 ## Features
@@ -269,20 +278,10 @@ sudo cp /etc/samba/smb.conf /etc/samba/smb.conf.old
 ## TODO
 
 - [ ] Finalize the automated installation script.
-```
+
 
 These are the Steps and recommendations for setting up SkyNasMk1 both manually and using the automated script.
-Certainly! Here are the disclaimer and legal boilerplate sections to be added to your README file:
 
 ---
 
-## Disclaimer
-
-SkyNasMk1 is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the creators or contributors be held liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
-
-## Legal Notice
-
-By using SkyNasMk1, you agree to comply with all applicable laws and regulations regarding the use and distribution of software. You acknowledge that it is your responsibility to ensure that your use of this software complies with the laws and regulations of your jurisdiction.
-
----
 ## Note : If you have any recomendations Make sure to let me know.
